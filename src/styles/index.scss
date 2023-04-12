@@ -1,0 +1,11 @@
+@import '~bulma/bulma';
+
+.is-primary.textarea, .is-primary.input {
+    border-color: hsl(171, 100%, 41%);
+    margin: 10px 0px;
+}
+
+.modal-card-foot {
+    display: flex;
+    justify-content: center;
+}
